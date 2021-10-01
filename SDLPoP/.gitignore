@@ -39,6 +39,7 @@ QUICKSAVE.SAV
 
 # Executables
 *.exe
+*.EXE
 *.out
 *.app
 *.i*86
